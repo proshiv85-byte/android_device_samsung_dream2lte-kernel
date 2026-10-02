@@ -1,0 +1,7 @@
+Prebuilt kernel for the Galaxy S8+ Exynos (SM-G955F, dream2lte).
+
+  Image   Samsung 4.4.302 universal8895 kernel, android_kernel_samsung_universal8895
+          branch aosp17 (3160351f), exynos8895-dream2lte_defconfig, GCC 16.1.0
+  dt.img  Samsung DTBH image of exynos8895-dream2lte_eur_open_10.dtb
+
+Rebuild with ./build-kernel.sh <path to kernel source>.
